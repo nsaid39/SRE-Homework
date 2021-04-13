@@ -22,7 +22,7 @@
 3. 50->網段  
 4. 1->第一台router  
 
-2.路徑放在簡單、好記的位置，不要在亂七八糟的"下載"目錄下
+2.路徑放在簡單、好記的位置，不要在亂七八糟的"下載"目錄下  
 ![](https://i.imgur.com/7rn9dSx.png)
 
 1.硬碟大小越大越好。  
@@ -105,3 +105,5 @@ y，格式化這個硬碟
 
 最後reboot，並拿掉光碟  
 ![](https://i.imgur.com/qtNfMLC.jpg)
+
+###### tags: `Alpine` `VMware Workstation Player`
