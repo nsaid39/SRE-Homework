@@ -5,6 +5,7 @@ kernel是linux作業系統中的核心程式，他可以管理、控制如Mem、
 kernel空間的模組(module)是動態的，只有呼叫到才會掛載，
 而硬體是靜態的寫死在裡面。  
 ![](https://i.imgur.com/1t0ZXZb.png)  
+
 ---
 查看這個linux有多少核心module
 ```
